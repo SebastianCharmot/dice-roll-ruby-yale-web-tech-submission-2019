@@ -2,6 +2,5 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll
-  roll = prng.rand(1..6)
+def roll = prng.rand(1..6)
 end
